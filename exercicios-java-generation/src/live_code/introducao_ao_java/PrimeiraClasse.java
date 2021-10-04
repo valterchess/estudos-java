@@ -1,4 +1,4 @@
-package exercicios_sincronos;
+package live_code.introducao_ao_java;
 
 import java.util.Scanner;
 
