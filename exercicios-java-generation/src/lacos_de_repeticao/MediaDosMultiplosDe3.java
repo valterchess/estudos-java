@@ -3,7 +3,7 @@ package lacos_de_repeticao;
 import java.util.Scanner;
 
 public class MediaDosMultiplosDe3 {
-
+	//exercício 6
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int numero, soma = 0,cont = 0;

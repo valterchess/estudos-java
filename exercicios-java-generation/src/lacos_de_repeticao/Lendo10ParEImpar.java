@@ -3,7 +3,7 @@ package lacos_de_repeticao;
 import java.util.Scanner;
 
 public class Lendo10ParEImpar {
-
+	//exercício 2
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int num;

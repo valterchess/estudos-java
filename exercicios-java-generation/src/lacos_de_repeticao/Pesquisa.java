@@ -3,7 +3,8 @@ package lacos_de_repeticao;
 import java.util.Scanner;
 
 public class Pesquisa {
-
+	//exercício 4
+	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		String sair = "";
@@ -23,7 +24,7 @@ public class Pesquisa {
 		int nervosasAcima40 = 0;
 		int calmasMenor18 = 0;
 		
-		while(cont < 5 || sair != "sair") {
+		while(cont < 150) {
 			System.out.println("informe a idade do participante: ");
 			idade = scan.nextInt();
 			
@@ -38,15 +39,6 @@ public class Pesquisa {
 			System.out.println("1-calma\n2-nervosa\n3-agressiva");
 			temperamento = scan.nextInt();
 			
-			while(temperamento != 1 || temperamento != 2 || temperamento != 3 || sair != "sair") {
-				System.out.println("Por gentileza, informe um valor válido.");
-				System.out.println("\nMas se deseja sair escreva 'sair',se não, digite continuar: ");
-				sair = scan.next().toLowerCase();
-				System.out.println("1- para temperamento calmo"
-						+ "\n2-para temperamento nervoso"
-						+ "\n3- para temperamento agressivo");
-				temperamento = scan.nextInt();
-			}
 			if(temperamento == 1) {
 				totalCalmos++;
 			}

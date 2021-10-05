@@ -3,7 +3,7 @@ package lacos_de_repeticao;
 import java.util.Scanner;
 
 public class SolicitandoIdades {
-
+	//Exercício 3
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("\t\tSe deseja parar o programa informe o valor -99 quando for solicitado.");
