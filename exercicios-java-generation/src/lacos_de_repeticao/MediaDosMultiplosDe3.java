@@ -13,7 +13,7 @@ public class MediaDosMultiplosDe3 {
 			System.out.println("para encerrar o programa digite 0, quando solicitado.");
 			System.out.print("Informe um valor: ");
 			numero = scan.nextInt();
-			if(numero % 3 == 0){
+			if(numero % 3 == 0 && numero != 0){
 				soma += numero;
 				cont++;
 			}
