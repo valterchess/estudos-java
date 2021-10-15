@@ -1,2 +1,2 @@
-# exercicios-portugol 
-Exercícios propostos pela Generation de Java e Portugol. Para o desenvolvimento pessoal como desenvolvedor.
+# exercicios-generation
+Exercícios propostos pela Generation de Java e Portugol.
