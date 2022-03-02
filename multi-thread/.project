@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<name>testa-threads</name>
+=======
+	<name>ServerThread</name>
+>>>>>>> 5234c79 (Conexão cliente/servidor simples)
+=======
+	<name>ServerThread</name>
+>>>>>>> 5234c79 (Conexão cliente/servidor simples)
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
