@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="StandardLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/princeton/libs/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/com/princeton/libs/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
